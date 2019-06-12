@@ -7,7 +7,7 @@ Também é apresentado a temperatura e também se o tempo está chuvoso ou não.
 
 <p>node.js</p>
 
-<p>angular.js</p>
+<p>angular</p>
 
 <p>html</p>
 
@@ -23,7 +23,7 @@ Entrar em https://nodejs.org/en/download/ e escolher o instalador para seu siste
 Execute o arquivo baixado e siga os passos de instalação (Next).
 Após instalado é possível confirmar a versão realizando os seguintes passos: clique em "iniciar", digite "cmd" e depois clique no item "Prompt de Comando") e digite **node -v**.
 
-## angular.js
+## angular
 Com node.js instalado é possível agora utilizar os comandos npm. Abra o "Prompt de Comando" e digite o comando: **npm install -g @angular/cli**. Aguarde até que a instrução seja finalizada.
 
 ## Servidor
