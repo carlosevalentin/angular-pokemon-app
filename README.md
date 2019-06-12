@@ -1,6 +1,7 @@
 # angular-pokemon-app
 
-Sistema para consulta de tipos de pokemon conforme a temperatura da cidade.
+Sistema para consulta de pokemon por tipo conforme a temparatura de uma cidade selecionada.
+Também é apresentado a temperatura e também se o tempo está chuvoso ou não.
 
 # Técnologias utilizadas
 
