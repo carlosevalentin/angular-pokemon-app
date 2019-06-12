@@ -14,7 +14,7 @@ Sistema para consulta de tipos de pokemon conforme a temperatura da cidade.
 
 # Configurações
 
-<p>node.js</p>
+## node.js
 Baixar o node.js e fazer instalação 
 
 <p>angular.js</p>
