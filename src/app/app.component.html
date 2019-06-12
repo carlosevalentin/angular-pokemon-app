@@ -1,0 +1,19 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    {{ title }}!
+  </h1>  
+</div>
+<div>
+  <form (submit)="submitLocal(local)">
+    <input type="text" class="form-control" placeholder="Cidade" #local>
+    <button>Obter Clima</button>
+  </form>
+</div>
+<div *ngIf="temperatura">
+  <p>Temperatura: {{temparaturaConvertida}}º</p>
+  <p>Tempo está chuvoso: {{clima}}</p>
+  <p>Nome do Pokemon: {{nomePokemon}}</p>  
+</div>
+
+<router-outlet></router-outlet>
